@@ -1,0 +1,2 @@
+“.nb” filter=lfs diff=lfs merge=lfs -text
+*.psdnb filter=lfs diff=lfs merge=lfs -text
